@@ -1,0 +1,8 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Raleway', sans-serif;
+    transition: background-color 1s linear 0.1s;
+}
